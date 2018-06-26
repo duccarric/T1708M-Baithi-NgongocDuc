@@ -1,0 +1,5 @@
+C:\Users\phuong\RiderProjects\BAITHICShap\BAITHICShap\bin\Debug\BAITHICShap.exe
+C:\Users\phuong\RiderProjects\BAITHICShap\BAITHICShap\bin\Debug\BAITHICShap.pdb
+C:\Users\phuong\RiderProjects\BAITHICShap\BAITHICShap\obj\Debug\BAITHICShap.csprojResolveAssemblyReference.cache
+C:\Users\phuong\RiderProjects\BAITHICShap\BAITHICShap\obj\Debug\BAITHICShap.exe
+C:\Users\phuong\RiderProjects\BAITHICShap\BAITHICShap\obj\Debug\BAITHICShap.pdb
